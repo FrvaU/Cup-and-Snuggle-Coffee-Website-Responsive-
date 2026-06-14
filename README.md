@@ -50,12 +50,15 @@ Cup-and-Snuggle/
 ├── hc_menu.jpg                # Hot Chocolate menu image
 └── README.md                  # Project documentation
 
-<img width="952" height="433" alt="Screenshot 2026-06-14 172214" src="https://github.com/user-attachments/assets/762de400-ba08-40cd-80ff-5b0ab5e5c7c5" />
-<img width="945" height="430" alt="Screenshot 2026-06-14 172206" src="https://github.com/user-attachments/assets/386aa030-e26d-4b7a-aa77-8028fe7defa7" />
-<img width="948" height="440" alt="Screenshot 2026-06-14 172156" src="https://github.com/user-attachments/assets/5aae777f-f04b-401b-b618-e48e63b1319a" />
-<img width="947" height="442" alt="Screenshot 2026-06-14 172144" src="https://github.com/user-attachments/assets/5c9b2c02-a074-4b9f-9bc8-202a4ac4f06e" />
-<img width="948" height="439" alt="Screenshot 2026-06-14 172133" src="https://github.com/user-attachments/assets/7dd5538a-e674-4b1b-919a-89cd6a0b4570" />
 <img width="947" height="440" alt="Screenshot 2026-06-14 172117" src="https://github.com/user-attachments/assets/2c7cd9f8-8eb1-49b8-9880-af719d8ce0d3" />
+<img width="948" height="439" alt="Screenshot 2026-06-14 172133" src="https://github.com/user-attachments/assets/7dd5538a-e674-4b1b-919a-89cd6a0b4570" />
+<img width="947" height="442" alt="Screenshot 2026-06-14 172144" src="https://github.com/user-attachments/assets/5c9b2c02-a074-4b9f-9bc8-202a4ac4f06e" />
+<img width="948" height="440" alt="Screenshot 2026-06-14 172156" src="https://github.com/user-attachments/assets/5aae777f-f04b-401b-b618-e48e63b1319a" />
+<img width="945" height="430" alt="Screenshot 2026-06-14 172206" src="https://github.com/user-attachments/assets/386aa030-e26d-4b7a-aa77-8028fe7defa7" />
+<img width="952" height="433" alt="Screenshot 2026-06-14 172214" src="https://github.com/user-attachments/assets/762de400-ba08-40cd-80ff-5b0ab5e5c7c5" />
+
+
+
 
 
 
